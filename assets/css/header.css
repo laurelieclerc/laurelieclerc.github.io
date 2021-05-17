@@ -353,7 +353,7 @@ header .text-shadow { text-shadow: 2px 2px #222; }
 
 /* Solid buttons */
 .container-btn .btn-solid:any-link {
-    background-color: #ff6501; border-color: #ff6501; color: #fff;
+    background-color: #ffb7d5; border-color: #ffb7d5; color: #fff;
 }
 
 .container-btn :is(.btn-solid:focus, .btn-solid:hover,.btn-solid:active) {

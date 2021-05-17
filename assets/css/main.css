@@ -34,7 +34,7 @@
 }
 
 .container-hero-block h1 { 
-	color: #fff;
+	color: rgb(243, 225, 238);
 	font-size: calc(42px + (102 - 42) * ((100vw - 320px)/(1600 - 320)))
 }
 
@@ -116,8 +116,8 @@ a.button:link, a.button:visited, a.button:hover, a.button:active {
 }
  
 a.button-solid:link, .button-solid:visited {
-    background-color: #ff6501;
-    color: #fff;
+    background-color: hsl(342, 54%, 65%);
+    color: rgb(253, 233, 255);
 } 
  
 a.button-solid:hover, .button-solid:active {
@@ -146,7 +146,7 @@ a.fancy-link:hover, a.fancy-link:active {
 
 a.fancy-link:link, a.fancy-link:visited { 
     color: #222; 
-    border-bottom-color:#ff6501
+    border-bottom-color:#f178aa
 }
 
 a.fancy-link:hover, a.fancy-link:active { 
@@ -160,7 +160,7 @@ a.fancy-link:hover, a.fancy-link:active {
     padding-left: 0.25em;
     border-radius: 8px;
     background-color: rgba(255, 101, 1, 0.12);
-    color: #ff6501;
+    color: #f178aa;
 }
 
 
@@ -302,7 +302,7 @@ img.image-circle {
 /* All screens */
 .container-contact-form { 
 	text-align: center; 
-	background-color: #fde6d6 
+	background-color: #fde2f2 
 }
 
 /* Desktop */
