@@ -67,3 +67,21 @@ img {
     box-shadow: 8px 10px 8px #888;
     margin-bottom: 42px;
 }
+
+/* ====== HYPERLINK STYLES ====== */
+            
+/* Passive link states */
+a:link, a:visited {
+    text-decoration: none;
+    padding-bottom: 2px;
+    color: black;
+    border-bottom: solid 2px #000;
+}
+            
+/* Interactive link states */
+a:hover, a:focus, a:active {
+    text-decoration: none;
+    padding-bottom: 2px;
+    color: #f26f21;
+    border-bottom: solid 2px blue;
+}
